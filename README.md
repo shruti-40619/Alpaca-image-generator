@@ -117,7 +117,7 @@ MCA Student | Aspiring Front-End / Full-Stack Developer
 
 GitHub: https://github.com/shruti-40619
 
-LinkedIn: (add your LinkedIn profile link)
+LinkedIn: www.linkedin.com/in/shruti-thakur-0859722a4
 
 ⭐ If you like this project, feel free to star the repository!
 
