@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Alpaca Image Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Alpaca Generator</h1>
+
+<div class="container">
+
+  <div class="left">
+    <div class="alpaca-preview" id="alpaca">
+      <img id="backgrounds">
+      <img id="neck">
+      <img id="ears">
+      <img id="hair">
+      <img id="eyes">
+      <img id="mouth">
+      <img id="leg">
+      <img id="accessories">
+      <img id="nose">
+    </div>
+  </div>
+
+  <div class="right">
+
+    
+    <div id="partsView">
+      <h3>Customize</h3>
+      <div class="grid" id="partsGrid"></div>
+
+      <button id="randomBtn">Random</button>
+      <button id="downloadBtn">Download</button>
+    </div>
+
+    
+    <div id="optionsView" style="display:none;">
+      <button id="backBtn">Back</button>
+      <h3 id="optionTitle"></h3>
+      <div class="grid" id="optionsGrid"></div>
+    </div>
+
+  </div>
+</div>
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
