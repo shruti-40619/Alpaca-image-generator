@@ -6,9 +6,7 @@ This project demonstrates strong fundamentals in **HTML, CSS, and JavaScript**, 
 ---
 
 ## 🚀 Live Demo
-👉 (Add GitHub Pages link here once enabled)  
-Example:  
-https://shruti-40619.github.io/Alpaca-image-generator/
+https://shruti-40619.github.io/Alpaca-image-generator/ 
 
 ---
 
